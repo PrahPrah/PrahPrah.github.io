@@ -1,0 +1,17 @@
+<svg id="Layer_5" data-name="Layer 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126.52 90">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" style="stop-color:#ffecd2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fcb69f;stop-opacity:1" />
+    </linearGradient>
+    <style>.cls-1{
+      fill:url(#grad1);
+      }
+    </style>
+  </defs>
+  <title>prah</title>
+  <path class="cls-1" d="M153.09,108l1.58,9,1.59,9c-9.94,0-19.42-8.06-21.17-18h0c-1.76-9.94-11.24-18-21.18-18h-36C68,90,58.49,81.94,56.74,72h56.33c18.6,0,36.33,15.07,39.61,33.67Z" transform="translate(-56.74 -72)"/>
+  <path class="cls-1" d="M106.5,99h0l7.93,45c1.76,9.94,11.24,18,21.18,18h0l-7.94-45C125.92,107.06,116.44,99,106.5,99Z" transform="translate(-56.74 -72)"/>
+  <path class="cls-1" d="M183.26,126h0l-4.43-25.15C176,84.92,160.82,72,144.89,72h-7.15l10.59,9a37.64,37.64,0,0,1,12.83,21.73l.93,5.27C163.84,117.94,173.32,126,183.26,126Z" transform="translate(-56.74 -72)"/>
+  <path class="cls-1" d="M137.67,124c3,10,10.24,11,20.18,11l4.76,27h0c-9.94,0-19.42-8.06-21.18-18Z" transform="translate(-56.74 -72)"/>
+</svg>
