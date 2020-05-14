@@ -1,12 +1,51 @@
 /* Required height of parents of the Half Page Carousel for proper displaying carousel itself */
 html,
 body,
+header,
 .view {
   height: 100%; }
 
-@media (max-width: 740px) {
-  .full-page-intro {
-    height: 1000px; } }
+  @media (max-width: 740px) {
+    .full-page-intro {
+      height: 1000px; } }
+
+  @media (max-width: 740px) {
+    html,
+    body,
+    header,
+    .view {
+      height: 1000px;
+    }
+  }
+
+  @media (min-width: 800px) and (max-width: 850px) {
+    html,
+    body,
+    header,
+    .view {
+      height: 650px;
+    }
+  }
+  .top-nav-collapse {
+    background-color: rgba(255, 255, 255, 0.2)!important;
+  }
+
+  .navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+  }
+  @media (min-width: 800px) and (max-width: 850px) {
+            .navbar:not(.top-nav-collapse) {
+                background-color: rgba(0, 0, 0, 0.2)!important;
+            }
+        }
+
+        .card {
+          background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .md-form label {
+          color: #ffffff;
+        }
 
 /* Half Page Carousel itself*/
 .carousel {
